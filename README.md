@@ -1,4 +1,6 @@
 # Forum-PHP
+![Screenshot 2023-06-13 120007](https://github.com/paschalis777/Forum-PHP/assets/125591063/ac9e29a5-07f1-47f1-bd19-2f7924b203e8)
+
 "Interactive Forum Platform with User-Generated Categories and Topics"
 
 This Forum platform is designed to provide users with a dynamic and engaging space to share their thoughts and opinions on various subjects. Users can create and explore categories as well as contribute to existing topics, fostering an environment of open discussion and knowledge sharing. Additionally, administrators possess the authority to create, delete, and manage both topics and categories, ensuring content moderation and maintaining the overall quality of the blog.
